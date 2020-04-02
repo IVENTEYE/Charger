@@ -1,0 +1,44 @@
+@font-face {
+    font-family: MyriadPro;
+    src: url(../fonts/MyriadPro-Semibold.otf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: SFCompactText;
+    src: url(../fonts/SF-Compact-Text-Semibold.otf);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: MyriadPro;
+    src: url(../fonts/MyriadPro-Regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../fonts/HelveticaNeue-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../fonts/HelveticaNeue-Thin.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../fonts/HelveticaNeue-Light.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: LucidaGrande;
+    src: url(../fonts/LucidaGrande.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
